@@ -7,7 +7,6 @@ if (!isset($_SESSION['user'])) {
     );
 }
 
-
 if (!empty($_GET['action'])) {
     switch ($_GET['action']) {
         case 'login':

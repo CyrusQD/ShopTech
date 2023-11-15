@@ -17,7 +17,7 @@
             <img src="../asset/img/support/place.svg" alt="" />
         </div>
     </a>
-    
+
     <a href="./deliveryPolicy.php" class="support__item">
         <div class="support__item-img" data-bs-toggle="tooltip" data-bs-placement="left" title="Giao hàng toàn quốc, tận nơi miễn phí">
             <img src="../asset/img/support/ship.svg" alt="" />

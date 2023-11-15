@@ -7,7 +7,6 @@ include '../function.php';
 
 $userID = $_SESSION['user']['id'];
 
-
 if (isset($_GET['action'])) {
     switch ($_GET['action']) {
         // them san pham

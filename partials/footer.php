@@ -11,8 +11,8 @@
             <div class="footer__wrap col-lg-4 col-sm-6 col-12">
                 <h5 class="footer__title">Về chúng tôi <i class=""></i></h5>
                 <div class="footer__content">
-                    <p><i class="fas fa-map-marker-alt"></i> Khu II, đường 3/2, phường Xuân Khánh, quận Ninh Kiều, thành phố Cần Thơ, Việt Nam</p>
-                    <p><i class="fas fa-envelope"></i>ct18816dhct06@student.ctu.edu.vn</p>
+                    <p><i class="fas fa-map-marker-alt"></i>Đại Học Công Nghệ Thông Tin, Khu II, đường 3/2, phường Xuân Khánh, quận Ninh Kiều, thành phố Cần Thơ, Việt Nam</p>
+                    <p><i class="fas fa-envelope"></i>datb1909898@student.ctu.edu.vn</p>
                 </div>
             </div>
             <div class="footer__wrap col-lg-4 col-sm-6 col-12">
@@ -22,7 +22,7 @@
                     <p>Gửi yêu cầu đổi trả</p>
                     <p>
                         P. Hỗ trợ khách hàng:
-                        <span>lntthanh3317@gmail.com</span>
+                        <span>datb1909898@gmail.com</span>
                     </p>
                 </div>
             </div>
@@ -60,7 +60,7 @@
             </div>
         </div>
         <div class="footer__license">
-            <p>© Bản quyền thuộc về <b> lntthanh3317</b></p>
+            <p>© Bản quyền thuộc về <b> DatB1909898</b></p>
         </div>
     </div>
     <div class="footer__fun">

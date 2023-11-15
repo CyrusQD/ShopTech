@@ -24,13 +24,12 @@
                 <?php
                 }
                 ?>
-                
+
             </div>
             <div class="miniCart__link d-flex justify-content-center">
                 <a href="./cart.php">Xem</a>
             </div>
         <?php } else { ?>
-
             <div class="miniCart__empty w-100 ">
                 <img class="w-100" src="../asset/img/cart/noCart.png" alt="">
             </div>

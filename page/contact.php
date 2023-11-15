@@ -88,10 +88,10 @@ if (!empty($_GET) && $_GET['action'] == 'submit') {
 
                         <div class="location">
                             <h4>Cửa hàng tại Cần Thơ</h4>
-                            <p>Địa chỉ: 123 ktxB đại học Cần Thơ, Phường Xuân Khánh, Quận Ninh Kiều, Thành phố Cần Thơ, Việt Nam</p>
-                            <p>Điện thoại: 0927123578</p>
+                            <p>Địa chỉ: Đại Học Công Nghệ Thông Tin, Khu II, đường 3/2, phường Xuân Khánh, quận Ninh Kiều, thành phố Cần Thơ, Việt Nam</p>
+                            <p>Điện thoại: 0385564590</p>
                             <p>
-                                <b>Mở cửa: </b>8h đến 20h, từ thứ 3 đến thứ 7
+                                <b>Mở cửa: </b>8h đến 17h30, từ thứ 2 đến thứ 6
                             </p>
                         </div>
                         <div class="map">
