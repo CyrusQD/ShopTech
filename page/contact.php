@@ -91,7 +91,7 @@ if (!empty($_GET) && $_GET['action'] == 'submit') {
                             <p>Địa chỉ: Đại Học Công Nghệ Thông Tin, Khu II, đường 3/2, phường Xuân Khánh, quận Ninh Kiều, thành phố Cần Thơ, Việt Nam</p>
                             <p>Điện thoại: 0385564590</p>
                             <p>
-                                <b>Mở cửa: </b>8h đến 17h30, từ thứ 2 đến thứ 6
+                                <b>Mở cửa: </b>8h đến 17h30, từ thứ 2 đến thứ 6 hàng tuần
                             </p>
                         </div>
                         <div class="map">
