@@ -29,12 +29,12 @@ if (!empty($_GET['action'])) {
             }
             $_SESSION['cart'] = $carts;
 
-            header('Location: ./home.php');
+            header('Location: ./index.php');
             break;
         case 'logout':
             unset($_SESSION['user']);
             unset($_SESSION['cart']);
-            header('Location: ./home.php');
+            header('Location: ./index.php');
             break;
     }
 }
@@ -59,7 +59,7 @@ if (!empty($_GET['action'])) {
                                             <img src="../asset/img/navbar/user_mobile2.png" alt="">
                                             <span><?= $_SESSION['user']['name'] ?></span>
                                         </div>
-                                        <a href="./home.php?action=logout" class="dropdown__user-logout">
+                                        <a href="./index.php?action=logout" class="dropdown__user-logout">
                                             Đăng xuất
                                         </a>
                                     </div>
@@ -69,20 +69,20 @@ if (!empty($_GET['action'])) {
                                 <?php } ?>
                             </div>
                             <div class="dropdown__main d-flex flex-column">
-                                <a href="./home.php">Trang chủ</a>
+                                <a href="./index.php">Trang chủ</a>
                                 <a href="./contact.php">Liên hệ</a>
                                 <a href="./deliveryPolicy.php">Chính sách giao hàng</a>
                             </div>
                             <div class="dropdown__bottom">
-                                <p>Số điện thoại: <span>0329881171</span></p>
-                                <p>Email: <span>lntthanh3317@gmail.com</span></p>
+                                <p>Số điện thoại: <span>0385564590</span></p>
+                                <p>Email: <span>datb1909898@gmail.com</span></p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="logo">
-                <a href="home.php" class=" w-100">
+                <a href="index.php" class=" w-100">
                     <img src="../asset/img/navbar/logo.png" alt=""  class=" w-100"/>
                 </a>
             </div>
@@ -113,7 +113,7 @@ if (!empty($_GET['action'])) {
                         </div>
                         <span><?= $_SESSION['user']['name'] ?></span>
                         <ul class="header__user-menu">
-                            <li class="header__user-item"><a href="./home.php?action=logout">Đăng xuất</a></li>
+                            <li class="header__user-item"><a href="./index.php?action=logout">Đăng xuất</a></li>
                             <li class="header__user-item">
 
                                 <a href="./login.php?action=changePassword">

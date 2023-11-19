@@ -36,7 +36,7 @@ include '../array.php';
 
     <div class="app">
         <div class="main login">
-            <a href="./home.php" class="logo">
+            <a href="./index.php" class="logo">
                 <img src="../asset/img/navbar/logo.png" alt="">
             </a>
             <div class="form">
@@ -86,7 +86,7 @@ include '../array.php';
                         mysqli_query($conn, $query);
                         $_SESSION['user']['password'] = $_POST['password'];
                         sleep(1);
-                        header("Location: ./home.php");
+                        header("Location: ./index.php");
                     } else {
                     ?>
                         <form action="./login.php?action=changePassword" class="form__main" method="post" name="changePassword">
@@ -114,7 +114,7 @@ include '../array.php';
                 } else {
                     if (isset($_POST['email']) && isset($_POST['password'])) {
                         sleep(1);
-                        header("Location: ./home.php?action=login&&email={$_POST['email']}");
+                        header("Location: ./index.php?action=login&&email={$_POST['email']}");
                     } else {
                     ?>
                         <form action="./login.php?action=login" class="form__main" method="post" name="login">

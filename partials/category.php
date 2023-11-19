@@ -20,7 +20,7 @@
         </div>
         <div class="category__item d-flex align-items-center">
              <i class="fa-solid fa-house"></i>
-            <a href="./home.php">Trang chủ</a>
+            <a href="./index.php">Trang chủ</a>
         </div>
         <div class="category__item d-flex align-items-center">
         <i class="fa-solid fa-envelope"></i>

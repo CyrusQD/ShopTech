@@ -1,5 +1,5 @@
 <div class="support">
-    <div href="https://www.facebook.com/o.das1vs5" target="_blank" class="support__item">
+    <div href="https://www.facebook.com/QuocDat53201/" target="_blank" class="support__item">
         <div class="support__item-img  miniCart__icon">
             <img src="../asset/img/support/miniCart.png" alt="" />
         </div>
@@ -7,13 +7,13 @@
         <?php include "../partials/miniCart.php"; ?>
     </div>
 
-    <a href="https://www.facebook.com/o.das1vs5" target="_blank" class="support__item">
-        <div class="support__item-img" data-bs-toggle="tooltip" data-bs-placement="left" title="Chat với Tiến Thành để được tư vấn">
+    <a href="https://www.facebook.com/QuocDat53201/" target="_blank" class="support__item">
+        <div class="support__item-img" data-bs-toggle="tooltip" data-bs-placement="left" title="Chat với Đạt để được tư vấn">
             <img src="../asset/img/support/mess.svg" alt="" />
         </div>
     </a>
     <a href="https://goo.gl/maps/Dz13FPdKpy37769C6" target="_blank" class="support__item">
-        <div class="support__item-img" data-bs-toggle="tooltip" data-bs-placement="left" title="ktxB, đại học Cần Thơ">
+        <div class="support__item-img" data-bs-toggle="tooltip" data-bs-placement="left" title="Đại học Công Nghệ Thông Tin, đại học Cần Thơ">
             <img src="../asset/img/support/place.svg" alt="" />
         </div>
     </a>
@@ -24,7 +24,7 @@
         </div>
     </a>
     <a href="tel:0329881171" class="support__item">
-        <div class="support__item-img" data-bs-toggle="tooltip" data-bs-placement="left" title="0329881171">
+        <div class="support__item-img" data-bs-toggle="tooltip" data-bs-placement="left" title="0385564590">
             <img src="../asset/img/support/phone.svg" alt="" />
         </div>
     </a>
